@@ -1,0 +1,31 @@
+[
+    {
+      "username": "officialrajdeepsingh",
+      "firstName": "Rajdeep",
+      "lastName": "Singh",
+      "gender": "Male",
+      "aboutAuthor": "Read Book, Music Lover and Web Developer"
+    },
+    {
+      "username": "Esme",
+      "firstName": "Esme",
+      "lastName": "Sullivan",
+      "gender": "FeMale",
+      "aboutAuthor": "Graet Book Reader"
+    },
+    {
+      "username": "Dennis",
+      "firstName": "Dennis",
+      "lastName": "Thompson",
+      "gender": "Male",
+      "aboutAuthor": " Love Football, Music Lover"
+    },
+    {
+      "username": "Amelia",
+      "firstName": "Amelia",
+      "lastName": "Sanchez",
+      "gender": "feMale",
+      "aboutAuthor": "Book Writer, Music Lover and Web Developer"
+    }
+  ]
+  

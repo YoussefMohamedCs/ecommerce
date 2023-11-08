@@ -1,0 +1,37 @@
+@import url(fonts.css);
+/*  */
+@import url(../vender/animate.css);
+/*  */
+@import url(../vender/bootstrap.min.css);
+/*  */
+@import url(fonts.css);
+/*  */
+@import url(../layout/headrer.css);
+/*  */
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css");
+/*  */
+@import url(../layout/footer.css);
+/*  */
+@import url(../responsive/responsive.css);
+ul{
+    padding-left: 0;
+}
+h1,h2,h3,h4,h5,h6,p{
+    padding: 0;
+    margin: 0;
+}
+a{
+    text-decoration: none;
+}
+img{
+    width: 100%;
+}
+body{
+    font-family: jostBlack;
+}
+.p-70{
+    padding: 70px 0px;
+}
+ul li{
+    list-style: none;
+}

@@ -1,0 +1,62 @@
+.headrer-top{
+    padding: 25px 0px;
+}
+.search{
+    background-color: #FFBB38;
+    padding: 20px;
+    border-radius: 50%;
+    color: #000;
+}
+.header i{
+font-size: 22px;
+}
+header a{
+    color: #797979;
+}
+.nav-item{
+    margin-right:30px ;
+}
+.navbar{
+        background-color: #AE1C9A !important;
+        padding: 20px 0px;
+}
+.nav-item a {
+    color: #fff !important;
+    font-size: 18px;
+    font-family: jostMedium;
+}
+.buttonHeader{
+    border-radius: 20px;
+    padding: 0px 30px;
+    background-color: #FFBB38;
+    color: #000;
+    font-family: jostLight;
+    position: relative;
+    z-index: 1;
+    overflow: hidden;
+    border: none;
+}
+.buttonHeader::after{
+content: "";
+position: absolute;
+inset: 0;
+transform-origin:  100% 100% ;
+transform: scaleX(0);
+width: 100%;
+height: 100%;
+transition: transform 0.5s;
+background-color: #232532;
+z-index: -1;
+border-radius: 20px;
+border: 1px solid transparent;
+}
+.buttonHeader:hover:after{
+    transform: scaleX(1);
+    transform-origin:  0 0 ;
+}
+.buttonHeader:hover{
+    background-color: #FFBB38;
+    border: none;
+    color: #fff;
+}
+

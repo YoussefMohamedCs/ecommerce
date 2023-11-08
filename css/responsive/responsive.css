@@ -1,0 +1,101 @@
+
+@media screen and (max-width:1024px){
+
+    .link-two .spanLinkOne{
+        top: -40%;
+     }
+     .link-three .spanLinkThree{
+        top: -40%;
+     }
+     .link-four .spanLinkFour{
+        top: -90%;
+     }
+     .footer .list-footer .myList{
+        margin-bottom:60px;
+    }
+
+    .footer .list-footer .myList{
+        margin-bottom:60px;
+    }
+    footer .up-footer{
+        width: 100%;
+        padding: 15px 0px;
+        top: -15%;
+    }
+    .item-footer{
+        gap: 5px;
+        padding: 20px 0px; 
+    }
+}
+
+
+
+@media screen and (max-width:768px){
+    .link-two .spanLinkOne{
+        top: -40%;
+     }
+     .link-three .spanLinkThree{
+        top: -40%;
+     }
+     .link-four .spanLinkFour{
+        top: -40%;
+     }
+     .footer .list-footer .myList{
+        margin-bottom:60px;
+    }
+    footer .up-footer{
+        width: 100%;
+        padding: 15px 0px;
+        top: -7%;
+    }
+    .item-footer{
+        gap: 5px;
+        padding: 20px 0px; 
+    }
+
+}
+
+
+@media screen and (max-width:600px){
+    html,body{
+        overflow-x: hidden;
+    }
+ .link-two .spanLinkOne{
+    top: -40%;
+ }
+ .link-three .spanLinkThree{
+    top: -40%;
+ }
+ .link-four .spanLinkFour{
+    top: -40%;
+ }
+footer .up-footer{
+    width: 100%;
+    padding: 20px 0px;
+    top: -8%;
+    display: none;
+
+}.item-footer{
+    padding: 20px 0px; 
+
+}
+.item-footer{
+    gap: 5px;
+}
+
+.fot-dwn{
+    font-size: 10px;
+}
+.footer .list-footer .myList{
+    margin-bottom:20px;
+}
+
+
+}
+@media screen and (max-width:400px){
+.section-one{
+    height: 100vh !important;
+}
+
+
+}
